@@ -1,0 +1,11 @@
+# grabsy.sh - # Change the default destination folder for os x screenshots.
+# 
+# USAGE
+# sh grabsy.sh <DIRNAME> 
+#       to make that the default destination for screenshots
+# sh grabsy.sh
+#       to revert to your default destination.  I didn't wanteit on the ~/Desktop, but you might.  Edit the config below.
+# 
+# you can edit your path so you dont have to type sh or ./ or whatever.
+# I tested this in bash on os x mavericks.  it probably won't work anywhere else.
+# 

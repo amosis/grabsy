@@ -8,4 +8,28 @@
 # 
 # you can edit your path so you dont have to type sh or ./ or whatever.
 # I tested this in bash on os x mavericks.  it probably won't work anywhere else.
-# 
+#
+#
+# Example:
+#
+# sh grabsy.sh DEMO
+#
+# This will create a new folder in ~/Documents/Screenshots/ called DEMO
+# like this
+# ~/Documents/Screenshots/DEMO
+#
+# Any screenshots you take using CMD+SHIFT+4 will save to DEMO.
+#
+# When you are done, you can run 
+# sh grabsy.sh
+#
+# to revert your path to the default, well to my default which is ~/Documents/Screenshots
+#
+# I have ~/Desktop (the OSX default) in the script, but commented out.  you can edit that if you want to use it.
+#
+#
+#
+#
+#
+#
+#
